@@ -1,0 +1,40 @@
+What is Terraform?
+How does Terraform differ from configuration management tools like Ansible?
+What is a Terraform provider?
+What is a Terraform resource?
+What is a Terraform data source?
+What is a Terraform module?
+What is declarative configuration in Terraform?
+What language does Terraform use for configuration?
+What files does Terraform load by default?
+What is versions.tf used for?
+What does terraform.tfvars do?
+How do you configure a provider?
+How do you declare a variable?
+How do you pass variables at runtime?
+What is the sensitive flag for variables?
+How do you define an output?
+How do you reference outputs from a child module?
+What is Terraform state?
+Where is state stored by default?
+Why use a remote backend?
+What does the count meta-argument do?
+What does for_each do?
+How do you read existing infrastructure values?
+What are some common built-in functions?
+What is the root module?
+How do you call a child module?
+What are good module design practices?
+What does terraform init do?
+What does terraform validate do?
+What does terraform plan do?
+What does terraform apply do?
+What does terraform destroy do?
+What are Terraform workspaces?
+How do you create and switch workspaces?
+What are provisioners in Terraform?
+What does terraform import do?
+What is Terraform Cloud?
+How do VCS-driven runs work in Terraform Cloud?
+What does terraform fmt ensure?
+What does terraform validate do in pipelines?
