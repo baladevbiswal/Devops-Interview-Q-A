@@ -37,4 +37,4 @@ What does terraform import do?
 What is Terraform Cloud?
 How do VCS-driven runs work in Terraform Cloud?
 What does terraform fmt ensure?
-What does terraform validate do in pipelines?Change from dev1
+What does terraform validate do in pipelines?
